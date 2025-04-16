@@ -13,10 +13,21 @@ It has a clean design and does basic math operations like addition, subtraction,
 
 ## 📱 Screenshot
 
+<p float="left">
+  <img src="screen-20250416-183620.gif" width="200" />
+  &nbsp;
+  <img src="Screenshot.png" width="200" />
+</p>
 
-<img src="screenshot/Screenshot_20250416-183705.png" width="300">
 
 ## 🛠️ Technologies
 
 - Flutter  
 - Dart
+
+## 👨‍💻 Developer
+
+**Mehmet Emin Güler**  
+📧 Email: [mhmt.eminguler@gmail.com](mailto:mhmt.eminguler@gmail.com)  
+💻 GitHub: [github.com/meminglr](https://github.com/meminglr)
+

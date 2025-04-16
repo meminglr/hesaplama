@@ -14,7 +14,7 @@ It has a clean design and does basic math operations like addition, subtraction,
 ## 📱 Screenshot
 
 <p float="left">
-  <img src="screen-20250416-183620.gif" width="200" />
+  <img src="screen-20250416-183620 (3).gif" width="200" />
   &nbsp;
   <img src="Screenshot.png" width="200" />
 </p>

@@ -13,7 +13,8 @@ It has a clean design and does basic math operations like addition, subtraction,
 
 ## 📱 Screenshot
 
-![Screenshot](Screenshot.png)
+
+<img src="screenshot/Screenshot_20250416-183705.png" width="300">
 
 ## 🛠️ Technologies
 
